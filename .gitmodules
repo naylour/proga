@@ -1,0 +1,3 @@
+[submodule "solutions/peekpe"]
+	path = solutions/peekpe
+	url = git@github.com:naylour/peekpe.git
